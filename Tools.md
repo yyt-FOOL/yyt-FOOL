@@ -11,7 +11,7 @@
 2. germini's deep research  
 3. Scimaster  
 
-#好用的AI编程工具
+# 好用的AI编程工具
 ## IDE
 1. cursor  
 2. kiro  
